@@ -1,0 +1,10 @@
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\CST-150 Activity 1.exe.config
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\CST-150 Activity 1.exe
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\bin\Debug\CST-150 Activity 1.pdb
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST-150 Activity 1.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST_150_Activity_1.Form1.resources
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST_150_Activity_1.Properties.Resources.resources
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST-150 Activity 1.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST-150 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST-150 Activity 1.exe
+C:\Users\kdy19\source\repos\CST-150 Activity 1\CST-150 Activity 1\obj\Debug\CST-150 Activity 1.pdb
