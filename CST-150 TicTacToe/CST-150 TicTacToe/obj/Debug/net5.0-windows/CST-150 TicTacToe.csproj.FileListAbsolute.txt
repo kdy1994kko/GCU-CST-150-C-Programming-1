@@ -1,0 +1,19 @@
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST_150_TicTacToe.PresentationLayer.FrmMain.resources
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.exe
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.deps.json
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.runtimeconfig.json
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.runtimeconfig.dev.json
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.dll
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\ref\CST-150 TicTacToe.dll
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\bin\Debug\net5.0-windows\CST-150 TicTacToe.pdb
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.dll
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\ref\CST-150 TicTacToe.dll
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.pdb
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST-150 TicTacToe.genruntimeconfig.cache
+C:\Users\kdy19\source\repos\CST-150 TicTacToe\CST-150 TicTacToe\obj\Debug\net5.0-windows\CST_150_TicTacToe.Properties.Resources.resources
