@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST-150 DiceClass", "CST-150 DiceClass\CST-150 DiceClass.csproj", "{AF9199A2-F71F-4AC7-9BC5-267EB63FC30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9199A2-F71F-4AC7-9BC5-267EB63FC30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9199A2-F71F-4AC7-9BC5-267EB63FC30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9199A2-F71F-4AC7-9BC5-267EB63FC30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9199A2-F71F-4AC7-9BC5-267EB63FC30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9948E7-E521-4805-BFAE-A926442AB7BD}
+	EndGlobalSection
+EndGlobal

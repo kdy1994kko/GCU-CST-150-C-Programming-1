@@ -1,0 +1,19 @@
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.exe
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.deps.json
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.runtimeconfig.json
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.runtimeconfig.dev.json
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.dll
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\ref\CST-150 DiceClass.dll
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\bin\Debug\net5.0-windows\CST-150 DiceClass.pdb
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST_150_DiceClass.PresentationLayer.FrmMain.resources
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.dll
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\ref\CST-150 DiceClass.dll
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.pdb
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST-150 DiceClass.genruntimeconfig.cache
+C:\Users\kdy19\source\repos\CST-150 DiceClass\CST-150 DiceClass\obj\Debug\net5.0-windows\CST_150_DiceClass.Properties.Resources.resources
