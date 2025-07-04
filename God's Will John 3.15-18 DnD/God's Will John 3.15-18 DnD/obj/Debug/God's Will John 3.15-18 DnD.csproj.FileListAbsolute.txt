@@ -1,0 +1,10 @@
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\bin\Debug\God's Will John 3.15-18 DnD.exe.config
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\bin\Debug\God's Will John 3.15-18 DnD.exe
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\bin\Debug\God's Will John 3.15-18 DnD.pdb
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God's Will John 3.15-18 DnD.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God_s_Will_John_3._15_18_DnD.JesusChristIsGod.resources
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God_s_Will_John_3._15_18_DnD.Properties.Resources.resources
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God's Will John 3.15-18 DnD.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God's Will John 3.15-18 DnD.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God's Will John 3.15-18 DnD.exe
+C:\Users\kdy19\source\repos\God's Will John 3.15-18 DnD\God's Will John 3.15-18 DnD\obj\Debug\God's Will John 3.15-18 DnD.pdb
