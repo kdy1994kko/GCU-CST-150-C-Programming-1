@@ -1,0 +1,19 @@
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.exe
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.deps.json
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.runtimeconfig.json
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.runtimeconfig.dev.json
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.dll
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\ref\CST-150 Pet Class.dll
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\bin\Debug\net5.0-windows\CST-150 Pet Class.pdb
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST_150_Pet_Class.FrmDetails.resources
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST_150_Pet_Class.FrmMain.resources
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.dll
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\ref\CST-150 Pet Class.dll
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.pdb
+C:\Users\kdy19\source\repos\CST-150 Pet Class\CST-150 Pet Class\obj\Debug\net5.0-windows\CST-150 Pet Class.genruntimeconfig.cache
