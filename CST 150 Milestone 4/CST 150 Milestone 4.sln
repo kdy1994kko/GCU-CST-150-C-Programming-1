@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST 150 Milestone 4", "CST 150 Milestone 4\CST 150 Milestone 4.csproj", "{06674A33-98E1-4E5D-B609-E5E7AE8905DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06674A33-98E1-4E5D-B609-E5E7AE8905DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06674A33-98E1-4E5D-B609-E5E7AE8905DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06674A33-98E1-4E5D-B609-E5E7AE8905DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06674A33-98E1-4E5D-B609-E5E7AE8905DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6D9D19-FDD7-4695-AB7F-23C15CA421F0}
+	EndGlobalSection
+EndGlobal

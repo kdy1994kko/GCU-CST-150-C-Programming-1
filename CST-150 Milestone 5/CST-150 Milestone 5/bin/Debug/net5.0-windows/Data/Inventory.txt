@@ -1,0 +1,6 @@
+Hoodie, Beach, XL, Green, 9, 31.85
+Blouse, Beach, S, Red, 20, 23.97
+Shorts, Lounge, L, Green, 21, 53.63
+Shorts, Sport, XL, Red, 19, 35.81
+Skirt, Beach, S, White, 4, 42.72
+Shorts, Sport, S, Green, 4, 43.8

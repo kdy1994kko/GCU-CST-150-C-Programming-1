@@ -1,0 +1,18 @@
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.exe
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.deps.json
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.runtimeconfig.json
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.runtimeconfig.dev.json
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.dll
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\ref\CST-150 Milestone 6.dll
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\bin\Debug\net5.0-windows\CST-150 Milestone 6.pdb
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST_150_Milestone_6.PresentationLayer.FrmMain.resources
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.dll
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\ref\CST-150 Milestone 6.dll
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.pdb
+C:\Users\kdy19\source\repos\CST-150 Milestone 6\CST-150 Milestone 6\obj\Debug\net5.0-windows\CST-150 Milestone 6.genruntimeconfig.cache
