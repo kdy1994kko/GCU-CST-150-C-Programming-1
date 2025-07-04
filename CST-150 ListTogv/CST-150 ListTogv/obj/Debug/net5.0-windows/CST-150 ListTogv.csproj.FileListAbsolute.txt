@@ -1,0 +1,19 @@
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.exe
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.deps.json
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.runtimeconfig.json
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.runtimeconfig.dev.json
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.dll
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\ref\CST-150 ListTogv.dll
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net5.0-windows\CST-150 ListTogv.pdb
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.csproj.AssemblyReference.cache
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST_150_ListTogv.FrmInventory.resources
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.csproj.GenerateResource.cache
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.AssemblyInfoInputs.cache
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.AssemblyInfo.cs
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.csproj.CoreCompileInputs.cache
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.dll
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\ref\CST-150 ListTogv.dll
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.pdb
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST-150 ListTogv.genruntimeconfig.cache
+C:\Users\kdy19\source\repos\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net5.0-windows\CST_150_ListTogv.FrmSecondary.resources
