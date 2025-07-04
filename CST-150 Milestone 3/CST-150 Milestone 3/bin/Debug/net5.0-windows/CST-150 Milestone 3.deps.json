@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CST-150 Milestone 3/1.0.0": {
+        "runtime": {
+          "CST-150 Milestone 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CST-150 Milestone 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
