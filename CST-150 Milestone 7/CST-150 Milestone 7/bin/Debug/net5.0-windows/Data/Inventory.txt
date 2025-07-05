@@ -1,0 +1,5 @@
+Skirt, Beach, M, Green, 12, 36.82
+Shorts, Formal, S, Black, 9, 41.2
+Sweater, Lounge, L, Red, 14, 13.65
+Hoodie, Casual, XL, White, 7, 58.63
+Socks, Waterproof, XS, Purple, 10, 50.99
